@@ -1,0 +1,62 @@
+
+"Players": [
+    {
+        "idPlayer": "1",
+        "name": "Player 1"
+    },
+    {
+        "idPlayer": "2",
+        "name": "Player 2"
+    }
+],
+
+"Turn": {
+    "idTurn": "1",
+    "idWord": "1"
+},
+{
+    "playerGiver": "1",
+    "Word": "Hello"
+},
+{
+    "playerGuesser": "2",
+},
+"Winner” : "2",  
+
+    "Winner": {
+    "name": "Player 2"
+}
+},
+
+"WordList": [
+{
+    "idWord": "1",
+    "Word": "Hello"
+},
+{
+    "idWord": "2",
+    "Word": "Mars"
+},
+{
+    "idWord": "3",
+    "Word": "Board"
+}
+],
+
+"Letters": [
+{
+    "idLetter": "1",
+    "Letter": "a, b, c, d, e, f, g, h, i, j, k, l, m, n, ñ, o, p, q, r, s, t, u, v, w, x, y, z"
+}
+], 
+
+"Score": [
+{
+    "idScore": "1",
+    "Score": "300"
+},
+{
+    "idScore": "2",
+    "Score": "400"
+}
+]
